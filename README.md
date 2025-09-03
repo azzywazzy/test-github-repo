@@ -13,3 +13,7 @@ I have two cats and love video games. My favourite games are:
 - Stardew Valley 
 
 My two cats are called Orion and Rygel and I live in Leeds.
+
+:skull_and_crossbones:
+:heart_eyes_cat:
+:see_no_evil:
