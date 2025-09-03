@@ -11,3 +11,5 @@ I have two cats and love video games. My favourite games are:
 - Witcher 3
 - Cyberpunk 2077
 - Stardew Valley 
+
+My two cats are called Orion and Rygel and I live in Leeds.
